@@ -1,0 +1,1 @@
+- [Terraform baseline for portfolio S3+CloudFront repo](project_terraform_baseline.md) — known-good patterns already in place vs. recurring gaps (headers policy, logging, versioning, cert/alias mismatch) to re-check each audit
